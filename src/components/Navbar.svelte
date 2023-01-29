@@ -4,44 +4,39 @@
 
     const discordInvite = 'https://discord.gg/DZVDucC4jG';
     const wikiInvite = 'https://slimecraftsmpwiki.gitbook.io/slimecraftsmp/';
+
+    const navItems = [
+        { "id": "home", "icon": "home", "action": () => navigateTo("home") },
+        { "id": "discord", "action": () => window.open(discordInvite) },
+        { "id": "rules", "icon": "menu_book", "action": () => navigateTo("rules") },
+        { "id": "vote", "icon": "check_box", "action": () => navigateTo("vote") },
+        { "id": "staff", "icon": "manage_accounts", "action": () => navigateTo("staff") },
+        { "id": "wiki", "icon": "info", "action": () => window.open(wikiInvite) },
+        { "id": "support", "icon": "settings", "action": () => navigateTo("support") },
+        { "id": "gallery", "icon": "photo_library", "action": () => navigateTo("gallery") }
+    ];
 </script>
 
 <nav class='navbar'>
     <span></span>
-    <span id='home' tabindex="0" on:click={() => navigateTo('home')} on:keypress={() => navigateTo('home')}>
-        <span class="material-icons">home</span>
-        Home
-    </span>
-    <span tabindex="0" on:click={() => window.open(discordInvite)} on:keypress={() => window.open(discordInvite)}>
-        <img src={DiscordLogo} alt="Discord logo"/>
-        Discord
-        <span class="material-icons">open_in_new</span>
-    </span>
-    <span id='rules' tabindex="0" on:click={() => navigateTo('rules')} on:keypress={() => navigateTo('rules')}>
-        <span class="material-icons">menu_book</span>
-        Rules
-    </span>
-    <span id='vote' tabindex="0" on:click={() => navigateTo('vote')} on:keypress={() => navigateTo('vote')}>
-        <span class="material-icons">check_box</span>
-        Vote
-    </span>
-    <span id='staff' tabindex="0" on:click={() => navigateTo('staff')} on:keypress={() => navigateTo('staff')}>
-        <span class="material-icons">manage_accounts</span>
-        Staff
-    </span>
-    <span tabindex="0" on:click={() => window.open(wikiInvite)} on:keypress={() => window.open(wikiInvite)}>
-        <span class="material-icons-outlined">info</span>
-        Wiki
-        <span class="material-icons">open_in_new</span>
-    </span>
-    <span id='support' tabindex="0" on:click={() => navigateTo('support')} on:keypress={() => navigateTo('support')}>
-        <span class="material-icons">settings</span>
-        Support
-    </span>
-    <span id='gallery' tabindex="0" on:click={() => navigateTo('gallery')} on:keypress={() => navigateTo('gallery')}>
-        <span class="material-icons">photo_library</span>
-        Gallery
-    </span>
+
+    {#each navItems as { id, icon, action }}
+        <span id={id} tabindex="0" on:click={action} on:keypress={action}>
+
+            {#if icon}
+                <span class="material-icons">{icon}</span>
+            {:else}
+                <img src={DiscordLogo} alt="Discord logo"/>
+            {/if}
+            
+            {id}
+
+            {#if id == "discord" || id == "wiki"}
+                <span class="material-icons">open_in_new</span>
+            {/if}
+        </span>
+    {/each}
+
     <span></span>
 </nav>
 

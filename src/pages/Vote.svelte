@@ -1,49 +1,20 @@
 <script>
-    const voteUris = [
-        'https://minecraft-mp.com/server/309322/vote', 
-        'https://minecraftservers.org/server/643676', 
-        'https://topmcservers.com/server/2127/vote', 
-        'https://servers-minecraft.net/server-slimecraftsmp.21927', 
-        'https://minecraft-server.net/vote/SlimeCraftSMP', 
-        'https://topminecraftservers.org/vote/30726', 
-        'https://minecraft-server-list.com/server/490560' 
-    ];
+    import { kVotingSites } from "../../constants";
 </script>
 
 <main class="container">
-    <button class="offset inverted" on:click={e => voteUris.forEach(uri => window.open(uri))}>
+    <button class="offset inverted" on:click={e => kVotingSites.forEach(uri => window.open(uri))}>
         Vote on All!
     </button>
     <p class="caption">
         Make sure to enable popups for this website!
         <a href="https://support.google.com/chrome/answer/95472" target="_blank" rel="noreferrer">See How</a>.
     </p>
-    <br/>
-    <button class="offset" on:click={e => window.open(voteUris[0])}>
-        Vote on minecraft-mp.com
-    </button>
-    <br/>
-    <button class="offset" on:click={e => window.open(voteUris[1])}>
-        Vote on minecraftservers.org
-    </button>
-    <br/>
-    <button class="offset" on:click={e => window.open(voteUris[2])}>
-        Vote on topmcservers.com
-    </button>
-    <br/>
-    <button class="offset" on:click={e => window.open(voteUris[3])}>
-        Vote on servers-minecraft.net
-    </button>
-    <br/>
-    <button class="offset" on:click={e => window.open(voteUris[4])}>
-        Vote on minecraft-server.net
-    </button>
-    <button class="offset" on:click={e => window.open(voteUris[5])}>
-        Vote on topminecraftservers.org
-    </button>
-    <button class="offset" on:click={e => window.open(voteUris[6])}>
-        Vote on minecraft-server-list.com
-    </button>
+    {#each kVotingSites as uri}
+        <button class="offset" on:click={e => window.open(uri)}>
+            Vote on { uri.slice(uri.indexOf("/") + 2, uri.indexOf("/", 9)) }
+        </button>
+    {/each}
 </main>
 
 <style>
