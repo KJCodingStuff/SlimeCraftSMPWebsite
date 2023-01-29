@@ -1,0 +1,37 @@
+name: Production Deployment Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize]
+
+jobs:
+  publish:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v3
+    - uses: borales/actions-yarn@v3.0.0
+      with:
+        cmd: install
+    # lint
+    - uses: borales/actions-yarn@v3.0.0
+      with:
+        cmd: build
+    # test
+
+    - name: Deploy to Netlify
+      if: ${{ github.event_name == 'push' }}
+      uses: netlify/actions/cli@master
+      with:
+        args: deploy --dir=dist --prod --message="GitHub Actions Production Deployment"
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+    - name: Bump version and push tag
+      if: ${{ github.event_name == 'push' && !contains(join(github.event.commits.*.message), '#skip') }}
+      uses: anothrNick/github-tag-action@1.52.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
