@@ -49,17 +49,20 @@ export const kStaffList = [
                 "username": "†Titanlord†#2207",
                 "IGN": "†Titanlord†"
             },
-            {
-                "username": "Sosvk#9297",
-                "IGN": "Sosvk"
-            }
         ]
     },
     {
         "role": "Helpers",
         "color": "lime",
         "members": [
-
+            {
+                "username": "Sosvk#9297",
+                "IGN": "Sosvk"
+            },
+            {
+                "username": "Ritwik#6889",
+                "IGN": "*SkullGamer99668"
+            }
         ]
     },
     {
