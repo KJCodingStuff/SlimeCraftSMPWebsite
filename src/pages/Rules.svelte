@@ -45,13 +45,6 @@
             <li><u><b>Begging</b></u> - Do not beg for OP , staff roles , creative or to unban others!</li>
         </ul>
     <br/>
-    <h2>SlimeCraftSMP Discord Rules</h2>
-        <ul>
-            <li><u><b>NSFW</b></u> - No inappropriate imagery [Profile picture included].</li>
-            <li><u><b>VC Disruption</b></u> - Do not play ear rape in VC using bots or mic.</li>
-            <li><u><b>Channel</b></u> - Use channels for the respective topic</li>
-            <li><u><b>TOS</b></u> - All Discord ToS and Guidelines apply, including 13+ only allowed!</li>
-        </ul>
 </main>
 
 <style>
