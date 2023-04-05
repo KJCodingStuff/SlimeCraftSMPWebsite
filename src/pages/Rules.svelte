@@ -28,6 +28,7 @@
             <li><u><b>Killing/Trapping</b></u> - Killing / Trapping other players without their consent and taking their stuff will get you banned.</li>
             <li><u><b>Terrain/Structure Griefing</b></u> - Do not leave floating trees , do not place random blocks , please keep the terrain smooth. Breaking chests from ANY structure is not allowed!</li>
             <li><u><b>Alts</b></u> - Each person on an IP address can use 2 accounts. If you have an alt account you <b>MUST</b> notify staff about it. Using alts to evade punishments will get you permanently banned.</li>
+            <li><u><b>Economy</b></u> - Attempting to break the economy / progression will result in strict penalties as decided by staff. Examples that are punishable are >> giving out free / cheap end-game items, selling end-game items for a cheap price on /ah etc as decided by staff from time to time.</li>
         </ul>
     <br/>
     <h2>SlimeCraftSMP Chat Rules [Applies on all chat platforms]</h2>
