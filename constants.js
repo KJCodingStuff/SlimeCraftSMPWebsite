@@ -89,8 +89,7 @@ export const kStaffList = [
 
 export const kVotingSites = [
     'https://minecraft-mp.com/server/309322/vote', 
-    'https://minecraftservers.org/server/643676', 
-    'https://topmcservers.com/server/2127/vote', 
+    'https://minecraftservers.org/vote/643676', 
     'https://servers-minecraft.net/server-slimecraftsmp.21927', 
     'https://minecraft-server.net/vote/SlimeCraftSMP', 
     'https://topminecraftservers.org/vote/30726', 
