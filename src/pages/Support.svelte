@@ -2,18 +2,18 @@
     import McGrassBlock from "../assets/mc-grass-block.svg";
     export let navigateTo;
 
-    const guidelinesUri = 'https://discord.com/channels/923817461550297108/923817461877456905/972042285082624010';
-    const staffTicketUri = 'https://discord.com/channels/923817461550297108/923817461877456905/999279418017054801';
-    const donateTicketUri = 'https://discord.com/channels/923817461550297108/923817461877456905/999279857865334845';
-    const bugTicketUri = 'https://discord.com/channels/923817461550297108/923817461877456905/999280290952388608';
-    const hackerTicketUri = 'https://discord.com/channels/923817461550297108/923817461877456905/999280605374189598';
-    const questionTicketUri = 'https://discord.com/channels/923817461550297108/923817461877456905/999280893795508334';
-    const discordInvite = 'https://discord.gg/d4GJ3EbhUR';
+    const guidelinesUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096754824000835664';
+    const staffTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096754895354335242';
+    const donateTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755000048357476';
+    const bugTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755128419225670';
+    const hackerTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755264511803444';
+    const questionTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755383479054377';
+    const discordInvite = 'https://discord.gg/xFtghGVCVD';
 </script>
 
 <main class="container">
     <img class="mc-grass-block" src={McGrassBlock} alt="Minecraft grass block"/>
-    <iframe title="List of online Discord server members" src="https://discord.com/widget?id=923817461550297108&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <iframe title="List of online Discord server members" src="https://discord.com/widget?id=1074746940253802556&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     <br/>
 
     <h1>Support Guidelines</h1>
@@ -78,12 +78,12 @@
     }
 
     .link {
-        color: #5865f2;
+        color: #ff0000;
         cursor: pointer;
     }
 
     .blue-glow {
-        color: #7777ff;
+        color: #ff8000;
         text-shadow: 0 0 4px rgba(119, 119, 255, 170);
     }
 </style>

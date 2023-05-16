@@ -1,8 +1,8 @@
 :root {
   font-family: 'Quicksand', sans-serif;
   font-size: 1.2em;
-  color: #daffe7;
-  background-color: #002e00;
+  color: #0ff01e;
+  background-color: #aeffcd;
 }
 
 h1, h2 {
@@ -42,7 +42,7 @@ a {
 }
 
 .selected {
-  color: #aeffcd !important;
+  color: #c65b2a !important;
 }
 
 @font-face {

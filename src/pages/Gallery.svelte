@@ -39,7 +39,7 @@
         margin-bottom: 64px;
     }
     p {
-        color: #7777ff;
+        color: #4ef4b1;
         text-shadow: 0 0 4px rgba(119, 119, 255, 170);
         text-align: center;
         font-size: 0.9em;
