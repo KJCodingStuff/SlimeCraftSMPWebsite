@@ -2,7 +2,7 @@
     import DiscordLogo from "../assets/discord.svg";
     export let navigateTo;
 
-    const discordInvite = 'https://discord.gg/DZVDucC4jG';
+    const discordInvite = 'https://discord.gg/xFtghGVCVD';
     const wikiInvite = 'https://slimecraftsmpwiki.gitbook.io/slimecraftsmp/';
 
     const navItems = [
@@ -43,9 +43,9 @@
 <style>
     .navbar {
         font-family: 'Silkscreen', cursive;
-        background-color: #007a1a;
+        background-color: #dcfee2;
         height: 80px;
-        color: #17dd61;
+        color: #befeca;
         display: flex;
         justify-content: space-around;
         align-items: center;
