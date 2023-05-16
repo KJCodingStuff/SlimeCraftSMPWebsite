@@ -43,9 +43,9 @@
 <style>
     .navbar {
         font-family: 'Silkscreen', cursive;
-        background-color: #dcfee2;
+        background-color: #aeffcd;
         height: 80px;
-        color: #befeca;
+        color: #0ff01e;
         display: flex;
         justify-content: space-around;
         align-items: center;
