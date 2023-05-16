@@ -25,29 +25,38 @@
     <h1>What are the features of SlimeCraftSMP?</h1>
         <p>
             I will only be talking about the "main" features since I do not wanna bore you all.
-            <br/>We support ALL <i>yes you heard me right</i> ALL versions from <b>1.9 to 1.19</b>!
+            <br/>We support ALL <i>yes you heard me right</i> ALL versions from <b>1.16 to 1.19</b>!
             <br/>We also <b>support bedrock</b> edition! You can join using your mobile , xbox , nintendo switch , console etc.
             <br/>We also run on the best hardware [AMD Ryzen 5 5600X 6-Core Processor] , so you will experience almost <b>no lag</b>!
         </p>
     <h2>We have-</h2>
         <ul>
             <li><b>Custom terrain</b> in the overworld , nether and the end! View pictures <span tabindex="0" class="link" on:click={() => navigateTo('gallery')} on:keypress={() => navigateTo('gallery')}>here</span>!</li>
+            <li>About 150 structures to keep you entertained!</li>
+            <li>Resource worlds that reset every month so you never run out of resources!</li>
+            <li>A bank to store your money safely!</li>
             <li>An <b>active staff</b> team from different parts of the world to help you within 24 hours!</li>
-            <li>A <b>skills plugin</b> like that on hypixel skyblock.</li>
+            <li>A <b>skills plugin</b> with multiple skills and over 100 abilities!</li>
             <li><b>Custom enchants</b>! Get one or multiple of the OP enchants you like and dominate the server!</li>
+            <li>Custom advancements to help you progress quickly!</li>
             <li>A Discord &lt;-&gt; Minecraft linking system , Discord &lt;-&gt; Minecraft levelling system and also Proximity VC!</li>
             <li>Our own <b>custom discord bot</b> that has a lot of functions!</li>
+            <li>Daily and Weekly quests!</li>
             <li>A plugin to claim land and <b>prevent grief</b>. This way you can keep your loot safe from all those sneaky robbers.</li>
             <li>A <b>teams plugin</b> for all those team players out there.</li>
             <li>Per-player-warp system. People can <b>set their own warps</b> that you can teleport to!</li>
+            <li>Automatic chat games every 30 minutes!</li>
             <li>An economy setup , a centralized <b>server shop</b> and many features that support player economy.</li>
             <li>A head shop for all those builders out there who like their builds to be absolutely detailed and beautiful!</li>
+            <li>A <b>graves plugin</b> so you don't lose your stuff when you die!</li>
             <li>A jobs plugin. Choose one out of <b>12 jobs</b> and earn passive income.</li>
             <li>An <b>auction house</b> for selling and bidding of items.</li>
             <li>A chest shops plugin. Players can <b>create their own shops</b>!</li>
-            <li>Auction house and chest shops do not fit your style? We have a trading system for in-person trading.</li>
+            <li>A rankup system to flex your progression on the server!</li>
+            <li>Normal mobs too easy? We have 6 dungeons with custom bosses!</li>
             <li>Not a fan of PvP? You can turn off PvP and then nobody can attack you and kill you.</li>
             <li>A good enough <b>anticheat</b> to detect and ban those pesky cheaters. You can enjoy without being disturbed by a hacker.</li>
+            <li><b>FREE</b> rewards for voting!.</li>
         </ul>
 </main>
 
@@ -62,7 +71,7 @@
         transform: rotate(10deg);
     }
     .link {
-        color: #5865f2;
+        color: #ffb084;
         cursor: pointer;
     }
 </style>
