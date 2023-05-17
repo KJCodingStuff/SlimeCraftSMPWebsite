@@ -43,7 +43,7 @@
 <style>
     .navbar {
         font-family: 'Silkscreen', cursive;
-        background-color: #7FFFD4;
+        background-color: #4ef4b1;
         height: 80px;
         color: #00FF00;
         display: flex;
