@@ -11,11 +11,11 @@
             SlimeCraftSMP is a <b>Public Minecraft Server</b> which attempts to make Minecraft a bit more fun for people who are bored for Vanilla Minecraft.
             It introduces many aspects from mods like custom enchants, terrain, dungeons and much more! <i>PS: A list of all important features will be at the bottom of this page.</i>
             <br/><br/>
-            Now you maybe wondering how to join the server on your 10 year old PC... Do not worry , we got you covered!
-            All the work is done by custom plugins[Some by me , Some by others]! That means you <b>do not need a single mod</b>.
+            Now you maybe wondering how to join the server on your 10 year old PC... Do not worry, we got you covered!
+            All the work is done by custom plugins[Some by me, Some by others]! That means you <b>do not need a single mod</b>.
             This was done considering many people like me would have old PCs and would not be willing to download mods because of performance reasons.
             <br/><br/>
-            Now your next question might be - What about the people who do not have a PC themself? Do not worry , we got you covered too!
+            Now your next question might be - What about the people who do not have a PC themself? Do not worry, we got you covered too!
             We allow bedrock connections too! That means you could play on the server <b>even on your mobiles or consoles or xbox</b> etc.
             <br/><br/>
             Also unlike other servers we have <b>zero</b> Pay-To-Win aspects. <i>So your parents need not worry about you emptying their credit cards.</i>
@@ -28,8 +28,8 @@
         <p>
             I will only be talking about the "main" features since I do not wanna bore you all.
             <br/>We support ALL <i>yes you heard me right</i> ALL versions from <b>1.16 to 1.19</b>!
-            <br/>We also <b>support bedrock</b> edition! You can join using your mobile , xbox , nintendo switch , console etc.
-            <br/>We also run on the best hardware [AMD Ryzen 5 5600X 6-Core Processor] , so you will experience almost <b>no lag</b>!
+            <br/>We also <b>support bedrock</b> edition! You can join using your mobile, xbox, nintendo switch, console etc.
+            <br/>We also run on the best hardware [AMD Ryzen 5 5600X 6-Core Processor], so you will experience almost <b>no lag</b>!
         </p>
     <h2>We have-</h2>
         <ul>
@@ -44,7 +44,7 @@
             <li>Normal mobs too easy? We have <b>multiple custom dungeons with custom bosses!</b></li>
             <li>FREE rewards for voting! Get upto <b>~200 gems, 6x crate keys, voter rank and much more</b> for just entering your username!</li>
             <li>An active staff team from different parts of the world to help you <b>within 48 hours!</b></li>
-            <li>A Discord <-> Minecraft linking system, Discord <-> Minecraft levelling system and also <b>Proximity VC!</b></li>
+            <li>A Discord &lt;-&gt; Minecraft linking system, Discord &lt;-&gt; Minecraft levelling system and also <b>Proximity VC!</b></li>
             <li>Our own <b>custom discord bot</b> that has a lot of functions!</li>
             <li>A plugin to claim land and prevent grief! This way you can <b>keep your loot safe</b> from all those sneaky robbers!</li>
             <li>A <b>teams plugin</b> for all those team players out there!</li>
