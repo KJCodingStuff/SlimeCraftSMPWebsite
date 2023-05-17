@@ -27,8 +27,8 @@
     }
 
     button {
-        --color: #7fba00;
-        --hover: #00a4ef;
+        --color: #FFA500;
+        --hover: #00FF00;
         display: block;
         color: var(--color);
         transition: 0.25s;
@@ -48,7 +48,7 @@
     }
 
     .inverted {
-        --color: #ff00ff;
-        --hover: #ff0080;
+        --color: #0000FF;
+        --hover: #00FF00;
     }
 </style>
