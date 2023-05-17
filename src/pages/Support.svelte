@@ -13,7 +13,6 @@
 
 <main class="container">
     <img class="mc-grass-block" src={McGrassBlock} alt="Minecraft grass block"/>
-    <iframe title="List of online Discord server members" src="https://discord.com/widget?id=1074746940253802556&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     <br/>
 
     <h1>Support Guidelines</h1>
@@ -26,7 +25,7 @@
         <p>
             Found a staff abusing his/her powers? Have an issue with how one handed a situation?
             <br/>You can <a href={staffTicketUri} target="_blank" rel="noreferrer">create a ticket</a>!
-            <br/>Handled by an Admin+ , if you have an issue with an Admin+ please DM PhoenixPlayz#1880.
+            <br/>Handled by an Manager+ , if you have an issue with an Manager+ please DM PhoenixPlayz#1880.
         </p>
     <br/>
     <h2>I donated but did not get my rank! You scammer!</h2>
@@ -78,12 +77,12 @@
     }
 
     .link {
-        color: #ff0000;
+        color: #0000FF;
         cursor: pointer;
     }
 
     .blue-glow {
-        color: #ff8000;
+        color: #0000FF;
         text-shadow: 0 0 4px rgba(119, 119, 255, 170);
     }
 </style>
