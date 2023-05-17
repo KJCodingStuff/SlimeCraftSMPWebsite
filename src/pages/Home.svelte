@@ -9,7 +9,7 @@
     <h1>What is SlimeCraftSMP?</h1>
         <p>
             SlimeCraftSMP is a <b>Public Minecraft Server</b> which attempts to make Minecraft a bit more fun for people who are bored for Vanilla Minecraft.
-            It introduces many aspects from mods like enchants terrain etc. I will not waste your time with all features and leave that for later.
+            It introduces many aspects from mods like custom enchants, terrain, dungeons and much more! <i>PS: A list of all important features will be at the bottom of this page.</i>
             <br/><br/>
             Now you maybe wondering how to join the server on your 10 year old PC... Do not worry , we got you covered!
             All the work is done by custom plugins[Some by me , Some by others]! That means you <b>do not need a single mod</b>.
@@ -19,6 +19,8 @@
             We allow bedrock connections too! That means you could play on the server <b>even on your mobiles or consoles or xbox</b> etc.
             <br/><br/>
             Also unlike other servers we have <b>zero</b> Pay-To-Win aspects. <i>So your parents need not worry about you emptying their credit cards.</i>
+            However we do allow donations at <a href="https://ko-fi.com/slimecraftsmp" target="_blank" rel="noreferrer">Kofi</a> to pay for server upkeep, hosting and plugin cost.
+            <b>PS: Everything mentioned at Kofi can be obtained by playing the game.</b>
         </p>
     <br/>
     <img class="mc-emerald" src={McEmerald} alt="Minecraft emerald"/>
@@ -31,32 +33,32 @@
         </p>
     <h2>We have-</h2>
         <ul>
-            <li><b>Custom terrain</b> in the overworld , nether and the end! View pictures <span tabindex="0" class="link" on:click={() => navigateTo('gallery')} on:keypress={() => navigateTo('gallery')}>here</span>!</li>
-            <li>About 150 structures to keep you entertained!</li>
-            <li>Resource worlds that reset every month so you never run out of resources!</li>
-            <li>A bank to store your money safely!</li>
-            <li>An <b>active staff</b> team from different parts of the world to help you within 24 hours!</li>
-            <li>A <b>skills plugin</b> with multiple skills and over 100 abilities!</li>
-            <li><b>Custom enchants</b>! Get one or multiple of the OP enchants you like and dominate the server!</li>
-            <li>Custom advancements to help you progress quickly!</li>
-            <li>A Discord &lt;-&gt; Minecraft linking system , Discord &lt;-&gt; Minecraft levelling system and also Proximity VC!</li>
+            <li><b>Unique terrain</b> in the overworld, nether and the end! View pictures <span tabindex="0" class="link" on:click={() => navigateTo('gallery')} on:keypress={() => navigateTo('gallery')}>here</span>!</li>
+            <li>Roughly <b>150 custom structures</b> to keep you entertained!</li>
+            <li>Resource worlds that reset every month so you <b>never run out of resources!</b></li>
+            <li>A skills plugin with <b>multiple skills and over 100 abilities!</b></li>
+            <li><b>Custom enchants!</b> Get one or multiple of the OP enchants you like and dominate the server!</li>
+            <li><b>Unique progression system</b> to help you progress through Slimefun quickly <b>without spending a single XP!</b></li>
+            <li>Daily and Weekly quests to get you <b>free rewards!</b></li>
+            <li>A head shop with <b>unique player heads</b> for all those builders out there who like their builds to be absolutely detailed and beautiful!</li>
+            <li>Normal mobs too easy? We have <b>multiple custom dungeons with custom bosses!</b></li>
+            <li>FREE rewards for voting! Get upto <b>~200 gems, 6x crate keys, voter rank and much more</b> for just entering your username!</li>
+            <li>An active staff team from different parts of the world to help you <b>within 48 hours!</b></li>
+            <li>A Discord <-> Minecraft linking system, Discord <-> Minecraft levelling system and also <b>Proximity VC!</b></li>
             <li>Our own <b>custom discord bot</b> that has a lot of functions!</li>
-            <li>Daily and Weekly quests!</li>
-            <li>A plugin to claim land and <b>prevent grief</b>. This way you can keep your loot safe from all those sneaky robbers.</li>
-            <li>A <b>teams plugin</b> for all those team players out there.</li>
+            <li>A plugin to claim land and prevent grief! This way you can <b>keep your loot safe</b> from all those sneaky robbers!</li>
+            <li>A <b>teams plugin</b> for all those team players out there!</li>
             <li>Per-player-warp system. People can <b>set their own warps</b> that you can teleport to!</li>
-            <li>Automatic chat games every 30 minutes!</li>
-            <li>An economy setup , a centralized <b>server shop</b> and many features that support player economy.</li>
-            <li>A head shop for all those builders out there who like their builds to be absolutely detailed and beautiful!</li>
-            <li>A <b>graves plugin</b> so you don't lose your stuff when you die!</li>
-            <li>A jobs plugin. Choose one out of <b>12 jobs</b> and earn passive income.</li>
-            <li>An <b>auction house</b> for selling and bidding of items.</li>
-            <li>A chest shops plugin. Players can <b>create their own shops</b>!</li>
-            <li>A rankup system to flex your progression on the server!</li>
-            <li>Normal mobs too easy? We have 6 dungeons with custom bosses!</li>
-            <li>Not a fan of PvP? You can turn off PvP and then nobody can attack you and kill you.</li>
-            <li>A good enough <b>anticheat</b> to detect and ban those pesky cheaters. You can enjoy without being disturbed by a hacker.</li>
-            <li><b>FREE</b> rewards for voting!.</li>
+            <li>Automatic chat games every 30 minutes which also give you <b>free rewards!</b></li>
+            <li>A graves plugin so you <b>don't lose your stuff when you die!</b></li>
+            <li>A jobs plugin. Choose one out of 12 jobs and <b>earn passive income.</b></li>
+            <li>An auction house for <b>selling and bidding of items for in-game currency!</b></li>
+            <li>A rankup system to <b>flex your progression on the server!</b></li>
+            <li>Not a fan of PvP? You can turn off PvP and then <b>nobody can attack or kill you!</b></li>
+            <li>A good enough anticheat to <b>detect those pesky cheaters.</b> You can enjoy without being disturbed by a hacker.</li>
+            <li>An economy setup, a <b>centralized server shop</b> and many features that support player economy.</li>
+            <li>A bank to <b>store your in-game currency safely!</b></li>
+            <li>A chest shop plugin through which you can <b>create your own shops easily!</b></li>
         </ul>
 </main>
 
@@ -71,7 +73,7 @@
         transform: rotate(10deg);
     }
     .link {
-        color: #ffb084;
+        color: #0000FF;
         cursor: pointer;
     }
 </style>
