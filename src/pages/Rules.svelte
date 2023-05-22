@@ -52,8 +52,8 @@
 <style>
     .craft-sword {
         position: absolute;
-        left: -96px;
-        transform: rotate(-5deg);
+        left: -128px;
+        transform: rotate(-8deg);
     }
 
     @media screen and (min-width: 1600px) {

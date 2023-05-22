@@ -65,12 +65,12 @@
 <style>
     .mc-logo {
         position: absolute;
-        right: -64px;
+        right: -32px;
     }
     .mc-emerald {
         position: absolute;
-        left: -32px;
-        transform: rotate(10deg);
+        left: -16px;
+        transform: rotate(16deg);
     }
     .link {
         color: #0000FF;

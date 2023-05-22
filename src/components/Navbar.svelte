@@ -45,7 +45,7 @@
         font-family: 'Silkscreen', cursive;
         background-color: #FFA500;
         height: 80px;
-        color: #4ef4b1;
+        color: #00FF00;
         display: flex;
         justify-content: space-around;
         align-items: center;
