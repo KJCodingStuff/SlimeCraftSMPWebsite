@@ -14,8 +14,8 @@ export const kStaffList = [
         "color": "#ff8000",
         "members": [
             {
-                "username": "N/A",
-                "IGN": "N/A"
+                "username": "N",
+                "IGN": "A"
             }
         ]
     },
@@ -28,8 +28,8 @@ export const kStaffList = [
                 "IGN": "Forkbomb"
             },
             {
-                "username": "Khushal#5827",
-                "IGN": "Tinted_Mage"
+                "username": "Create a ticket on discord to apply!",
+                "IGN": "Must require Java knowledge to create plugins!"
             }
         ]
     },
@@ -38,8 +38,8 @@ export const kStaffList = [
         "color": "#80ff00",
         "members": [
             {
-                "username": "N/A",
-                "IGN": "N/A"
+                "username": "N",
+                "IGN": "A"
             }
         ]
     },
@@ -84,12 +84,12 @@ export const kStaffList = [
         "color": "#0080ff",
         "members": [
             {
-                "username": "Hippopotomus#6451",
-                "IGN": "ReaperRolys"
-            },
-            {
                 "username": "Khushal#5827",
                 "IGN": "Tinted_Mage"
+            },
+            {
+                "username": "Create a ticket on discord to apply!",
+                "IGN": "Must require detailed building knowledge!"
             }
         ]
     },
@@ -98,12 +98,12 @@ export const kStaffList = [
         "color": "#0000ff",
         "members": [
             {
-                "username": "Apply Now!",
-                "IGN": "Create a ticket on discord"
+                "username": "*Eshanking9999",
+                "IGN": "eshanking99#0737"
             },
             {
-                "username": "Apply Now!",
-                "IGN": "Create a ticket on discord"
+                "username": "Create a ticket on discord to apply!",
+                "IGN": "Must require editing and recording knowledge!"
             }
         ]
     },
@@ -116,8 +116,8 @@ export const kStaffList = [
                 "IGN": "Impendent"
             },
             {
-                "username": "Apply Now!",
-                "IGN": "Create a ticket on discord"
+                "username": "Create a ticket on discord to apply!",
+                "IGN": "Must require pixel art and block bench knowledge!"
             }
         ]
     },
@@ -144,8 +144,8 @@ export const kStaffList = [
                 "IGN": "Gamersusano"
             },
             {
-                "username": "Apply Now!",
-                "IGN": "Create a ticket on discord"
+                "username": "Blazee#6928",
+                "IGN": "BlazeeWasHere"
             }
         ]
     }
