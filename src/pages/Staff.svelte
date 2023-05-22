@@ -1,5 +1,4 @@
 <script>
-  import CreeperSplash from "../assets/creeper-splash.png";
   import { kStaffList } from "../../constants";
 </script>
 
@@ -16,9 +15,6 @@
             {/if}
         </p>
 
-        {#if list.role == "Admins"}
-            <img class="creeper-splash" src={CreeperSplash} alt="Minecraft creeper art"/>
-        {/if}
         <br/>
     {/each}
 </main>
@@ -26,13 +22,6 @@
 <style>
     .container {
         text-align: center;
-    }
-    
-    .creeper-splash {
-        position: absolute;
-        right: -216px;
-        height: 450px;
-        width: 600px;
     }
 
     p > p {
