@@ -14,8 +14,8 @@ export const kStaffList = [
         "color": "#ff8000",
         "members": [
             {
-                "username": "N",
-                "IGN": "A"
+                "username": "A",
+                "IGN": "N"
             }
         ]
     },
@@ -28,8 +28,8 @@ export const kStaffList = [
                 "IGN": "Forkbomb"
             },
             {
-                "username": "Create a ticket on discord to apply!",
-                "IGN": "Must require Java knowledge to create plugins!"
+                "username": "Khushal#5827",
+                "IGN": "Tinted_Mage"
             }
         ]
     },
@@ -83,14 +83,6 @@ export const kStaffList = [
         "role": "Builder",
         "color": "#0080ff",
         "members": [
-            {
-                "username": "Khushal#5827",
-                "IGN": "Tinted_Mage"
-            },
-            {
-                "username": "Create a ticket on discord to apply!",
-                "IGN": "Must require detailed building knowledge!"
-            }
         ]
     },
     {
@@ -102,8 +94,8 @@ export const kStaffList = [
                 "IGN": "eshanking99#0737"
             },
             {
-                "username": "Create a ticket on discord to apply!",
-                "IGN": "Must require editing and recording knowledge!"
+                "username": "Must require editing and recording knowledge!",
+                "IGN": "Create a ticket on discord to apply!"
             }
         ]
     },
@@ -116,8 +108,8 @@ export const kStaffList = [
                 "IGN": "Impendent"
             },
             {
-                "username": "Create a ticket on discord to apply!",
-                "IGN": "Must require pixel art and block bench knowledge!"
+                "username": "Must require pixel art and block bench knowledge!",
+                "IGN": "Create a ticket on discord to apply!"
             }
         ]
     },
@@ -130,8 +122,8 @@ export const kStaffList = [
                 "IGN": "MinecraftIsaac7"
             },
             {
-                "username": "Khushal#5827",
-                "IGN": "Tinted_Mage"
+                "username": "Must know basic english!",
+                "IGN": "Create a ticket on discord to apply!"
             }
         ]
     },
