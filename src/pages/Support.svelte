@@ -67,6 +67,10 @@
 </main>
 
 <style>
+    .container {
+        text-align: center;
+    }
+    
     iframe {
         display: block;
         margin: 0 auto;
@@ -74,6 +78,9 @@
 
     .mc-grass-block {
         position: absolute;
+        right: -216px;
+        height: 450px;
+        width: 600px
     }
 
     .link {
