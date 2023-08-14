@@ -4,8 +4,8 @@ export const kStaffList = [
         "color": "#ff0000",
         "members": [
             {
-                "username": "PhoenixPlayz#1880",
-                "IGN": "Phoenix_Playz_YT"
+                "IGN": "p_yt",
+                "username": "p_yt"
             }
         ]
     },
@@ -14,8 +14,8 @@ export const kStaffList = [
         "color": "#ff8000",
         "members": [
             {
-                "username": "A",
-                "IGN": "N"
+                "IGN": "N",
+                "username": "A"
             }
         ]
     },
@@ -24,12 +24,8 @@ export const kStaffList = [
         "color": "#ffff00",
         "members": [
             {
-                "username": "Frobkabom#5890",
-                "IGN": "Forkbomb"
-            },
-            {
-                "username": "Khushal#5827",
-                "IGN": "Tinted_Mage"
+                "IGN": "Forkbomb",
+                "username": "frobkabom"
             }
         ]
     },
@@ -38,8 +34,8 @@ export const kStaffList = [
         "color": "#80ff00",
         "members": [
             {
-                "username": "N",
-                "IGN": "A"
+                "IGN": "N",
+                "username": "A"
             }
         ]
     },
@@ -48,16 +44,16 @@ export const kStaffList = [
         "color": "#00ff00",
         "members": [
             {
-                "username": "Fl__uffy#5899",
-                "IGN": "Fl__uffy"
+                "IGN": "Fl__uffy",
+                "username": "fl__uffy"                
             },
             {
-                "username": "Eratix#8506",
-                "IGN": "Astegon"
+                "IGN": "Astegon",
+                "username": "astegon"                
             },
             {
-                "username": "rishabh098#1180",
-                "IGN": "*rishabh098"
+                "IGN": "*rishabh098",
+                "username": "rishabh098"                
             }
         ]
     },
@@ -66,16 +62,16 @@ export const kStaffList = [
         "color": "#00ffff",
         "members": [
             {
-                "username": "†Titanlord†#2207",
-                "IGN": "*Titanload"
+                "IGN": "*Titanload",
+                "username": "titanlord_"                
             }, 
             {
-                "username": "Sosvk#9297",
-                "IGN": "Sosvk1234567"
+                "IGN": "Sosvk1234567",
+                "username": "sosvk"                
             },
             {
-                "username": "Ritwik#6889",
-                "IGN": "*SkullGamer99668"
+                "IGN": "*SkullGamer99668",
+                "username": "64bit_ritwik"                
             }
         ]
     },
@@ -83,6 +79,10 @@ export const kStaffList = [
         "role": "Builder",
         "color": "#0080ff",
         "members": [
+            {
+                "IGN": "NegativeIonEn",
+                "username": "negativeione"                
+            }
         ]
     },
     {
@@ -90,12 +90,8 @@ export const kStaffList = [
         "color": "#0000ff",
         "members": [
             {
-                "username": "*Eshanking9999",
-                "IGN": "eshanking99#0737"
-            },
-            {
-                "username": "Must require editing and recording knowledge!",
-                "IGN": "Create a ticket on discord to apply!"
+                "IGN": "Create a ticket on discord to apply!",
+                "username": "Must require editing and recording knowledge!"                
             }
         ]
     },
@@ -104,12 +100,8 @@ export const kStaffList = [
         "color": "#8000ff",
         "members": [
             {
-                "username": "Sarvan#8693",
-                "IGN": "Impendent"
-            },
-            {
-                "username": "Must require pixel art and block bench knowledge!",
-                "IGN": "Create a ticket on discord to apply!"
+                "IGN": "Impendent",
+                "username": "impendent"                
             }
         ]
     },
@@ -118,12 +110,12 @@ export const kStaffList = [
         "color": "#ff00ff",
         "members": [
             {
-                "username": "Isaac_the_dest#8133",
-                "IGN": "MinecraftIsaac7"
+                "IGN": "MinecraftIsaac7",
+                "username": "isaac_the_dest"
             },
             {
-                "username": "Must know basic english!",
-                "IGN": "Create a ticket on discord to apply!"
+                "username": "BunSkylar",
+                "IGN": "skylarthealmighty"
             }
         ]
     },
@@ -132,12 +124,8 @@ export const kStaffList = [
         "color": "#ff0080",
         "members": [
             {
-                "username": "Silver Killer#4655",
-                "IGN": "Gamersusano"
-            },
-            {
-                "username": "Blazee#6928",
-                "IGN": "BlazeeWasHere"
+                "IGN": "BlazeeWasHere",
+                "username": "blazeewashere"                
             }
         ]
     }
