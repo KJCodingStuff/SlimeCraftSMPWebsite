@@ -1,6 +1,6 @@
 <script>
     import McLogo from "../assets/mc-logo.svg";
-    import McEmerald from "../assets/mc-emerald.png";
+    import McEmerald from "../assets/gem.png";
     export let navigateTo;
 </script>
 
@@ -23,7 +23,7 @@
             <b>PS: Everything mentioned at Kofi can be obtained by playing the game.</b>
         </p>
     <br/>
-    <img class="mc-emerald" src={McEmerald} alt="Minecraft emerald"/>
+    <img class="gem" src={McEmerald} alt="Minecraft emerald"/>
     <h1>What are the features of SlimeCraftSMP?</h1>
         <p>
             I will only be talking about the "main" features since I do not wanna bore you all.
@@ -67,7 +67,7 @@
         position: absolute;
         right: -32px;
     }
-    .mc-emerald {
+    .gem {
         position: absolute;
         left: -16px;
         transform: rotate(16deg);
