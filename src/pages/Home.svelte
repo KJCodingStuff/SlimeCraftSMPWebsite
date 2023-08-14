@@ -1,5 +1,5 @@
 <script>
-    import McLogo from "../assets/mc-logo.svg";
+    import McLogo from "../assets/mc-logo.png";
     import McEmerald from "../assets/gem.png";
     export let navigateTo;
 </script>
