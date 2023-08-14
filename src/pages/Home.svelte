@@ -1,11 +1,8 @@
 <script>
-    import McLogo from "../assets/mc-logo.png";
-    import McEmerald from "../assets/gem.png";
     export let navigateTo;
 </script>
 
 <main class="container">
-    <img class="mc-logo" src={McLogo} alt="Minecraft logo art"/>
     <h1>What is SlimeCraftSMP?</h1>
         <p>
             SlimeCraftSMP is a <b>Public Minecraft Server</b> which attempts to make Minecraft a bit more fun for people who are bored for Vanilla Minecraft.
@@ -23,7 +20,6 @@
             <b>PS: Everything mentioned at Kofi can be obtained by playing the game.</b>
         </p>
     <br/>
-    <img class="gem" src={McEmerald} alt="Minecraft emerald"/>
     <h1>What are the features of SlimeCraftSMP?</h1>
         <p>
             I will only be talking about the "main" features since I do not wanna bore you all.
@@ -63,15 +59,6 @@
 </main>
 
 <style>
-    .mc-logo {
-        position: absolute;
-        right: -32px;
-    }
-    .gem {
-        position: absolute;
-        left: -16px;
-        transform: rotate(16deg);
-    }
     .link {
         color: #0000FF;
         cursor: pointer;
