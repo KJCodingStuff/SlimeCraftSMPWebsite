@@ -2,13 +2,13 @@
     import McGrassBlock from "../assets/mc-grass-block.svg";
     export let navigateTo;
 
-    const guidelinesUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096754824000835664';
-    const staffTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096754895354335242';
-    const donateTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755000048357476';
-    const bugTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755128419225670';
-    const hackerTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755264511803444';
-    const questionTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1096755383479054377';
     const discordInvite = 'https://discord.gg/xFtghGVCVD';
+    const guidelinesUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1140150521290817586';
+    const staffTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1140152296773275730';
+    const donateTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1140152531742380123';
+    const bugTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1140153487204818984';
+    const hackerTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1140153701869293578';
+    const questionTicketUri = 'https://discord.com/channels/1074746940253802556/1074746941528879150/1140153964080410644';
 </script>
 
 <main class="container">
